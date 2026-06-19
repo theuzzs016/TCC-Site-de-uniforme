@@ -2,5 +2,5 @@
 
 Matheus de Souza,
 Gabriel Andrade,
-Yasmin Silva,
+Yasmin Santos,
 Rebeca Ferreira
